@@ -1,0 +1,52 @@
+{
+  "name": "pharmacy-frontend",
+  "version": "1.0.0",
+  "description": "Online Pharmacy Web Application Frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "pharmacy",
+    "react",
+    "typescript",
+    "tailwind"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "axios": "^1.3.0",
+    "framer-motion": "^12.23.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.8.0",
+    "react-toastify": "^11.0.5",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.0",
+    "@types/react-toastify": "^4.0.2",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "react-scripts": "^5.0.1",
+    "tailwindcss": "^3.2.7"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
